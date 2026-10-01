@@ -1,5 +1,7 @@
 # COMP2432 Group Project
 
+Group members: Lu Chi Ngai, FENG Cheong Hoi, LAW Ka Chun, YAU Kwin Yue
+
 A Rust simulation for medical care robot coordination, including:
 
 - Priority task queue (Critical, High, Normal)
